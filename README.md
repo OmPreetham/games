@@ -25,6 +25,10 @@ Welcome to my game collection! These games were created as part of my journey in
 10. **Number Guessing:** Try to guess the secret number with hints along the way.
 
 11. **Turtle Races:** Bet on turtles and see which one wins the race.
+    
+12. **Turtle Crossing:** A game that challenges players to help a turtle cross the road safely.
+
+13. **US States Game:** An educational game to help players learn and identify all the US states on a map.
 
 And many more games to come! Feel free to explore, play, and modify these games to enhance your coding skills. Each game may have its own set of rules and instructions, so make sure to check their respective README files for more details.
 
