@@ -30,7 +30,7 @@ Welcome to my game collection! These games were created as part of my journey in
 
 13. **US States Game:** An educational game to help players learn and identify all the US states on a map.
 
-And many more games to come! Feel free to explore, play, and modify these games to enhance your coding skills. Each game may have its own set of rules and instructions, so make sure to check their respective README files for more details.
+And many more games to come! Feel free to explore, play, and modify these games to enhance your coding skills. Each game may have its own set of rules and instructions.
 
 ## How to Play
 
